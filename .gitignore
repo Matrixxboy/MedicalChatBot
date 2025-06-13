@@ -19,7 +19,10 @@ wheels/
 *.swp
 
 # Environment files
+.env/
+/.env
 .env
+.env/
 
 # Virtual environment
 venv/
@@ -32,4 +35,4 @@ env/
 .vscode/
 
 # IntelliJ IDEA/PyCharm files
-.idea/
+.idea/.env

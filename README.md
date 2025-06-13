@@ -136,8 +136,6 @@ Feel free to adjust tone or safety level.
 
 > Dark theme + chat bubbles for a modern, minimalist look.
 
-*Add your screenshot here*
-
 ---
 
 ## 🛡 Security Notice
